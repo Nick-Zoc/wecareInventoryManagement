@@ -1,0 +1,10 @@
+Skin Cleanser,Cetaphil,250,280,Switzerland
+Sunscreen,Aqualogica,300,700,India
+Sunscreen,Himalaya,100,550,Australia
+Moisturizer,Cetaphil,100,150,USA
+Face Cream,SoftGlow,150,500,Nepal
+Body Lotion,FreshSkin,300,600,India
+Night Cream,ClearLook,700,750,USA
+Aloe Gel,CoolTouch,100,400,Korea
+Aloe Vera Gel,Biossance,200,1200,USA
+Retinol Cream,Cetaphil,150,1900,USA
