@@ -1,0 +1,1 @@
+A inventory management system Developed using Python. leveraging OOP concepts and modularity using specific functions for specific tasks. Using Different files containing functions as per the name and use of the file, implementing file management.
